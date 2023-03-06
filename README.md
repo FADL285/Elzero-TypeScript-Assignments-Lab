@@ -6,7 +6,7 @@ This repository contains solutions to the TypeScript assignments provided by Elz
 
 Each assignment has its own folder, which is created using the `init-assignments.sh` script. This script creates a folder with the assignment name, installs TypeScript as a dev dependency, creates an `index.ts` file in the `src` folder, and updates the `tsconfig.json` file to set the `rootDir` and `outDir` properties.
 
-## Running the Solutions**
+## Running the Solutions
 
 > I use [pnpm](https://pnpm.io/) as my package manager. You can use any package manager you like.
 
